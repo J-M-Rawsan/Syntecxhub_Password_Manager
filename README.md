@@ -47,3 +47,17 @@ A secure **local password manager** that stores all credentials encrypted on dis
    
    git clone https://github.com/J-M-Rawsan/Syntecxhub_Password_Manager.git
    cd Syntecxhub_Password_Manager
+
+   ## 📸 Screenshots
+
+![Master Password Screen](screenshots/1_master_password.png)
+
+![Main Menu](screenshots/2_main_menu.png)
+
+![Add New Password](screenshots/3_add_password.png)
+
+![View All Passwords](screenshots/4_view_all.png)
+
+![Search Result](screenshots/5_search_result.png)
+
+![Encrypted Files on Disk](screenshots/6_encrypted_files.png)
